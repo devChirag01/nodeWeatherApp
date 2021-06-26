@@ -1,0 +1,30 @@
+* {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+}
+.center,
+.footer {
+  text-align: center;
+  color: white;
+}
+img {
+  width: 200px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+.header_items {
+  padding: 0 30% 0 30%;
+}
+.header_items li {
+  display: inline;
+}
+#result {
+  padding-top: 20px !important;
+}
